@@ -1,8 +1,7 @@
 <div dir="rtl">
 <p>בס"ד</p>
-
-https://izk.itch.io/hello-3d-world
-
+<h3>קישור למשחק</h3>
+<a href="https://izk.itch.io/hello-3d-world" target="_blank">https://izk.itch.io/hello-3d-world</a>
 <h3>הוראות</h3>
 <p>הליכה: קליק שמאלי</p>
 <p>הזזת מצלמה: חיצים ימין ושמאל או מקשים A, D</p>
